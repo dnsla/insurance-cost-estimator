@@ -2,6 +2,8 @@
 
 This is a web application that predicts medical insurance charges based on user input such as age, sex, BMI, number of children, smoking status, and region. It was built using Python, Dash, and a Ridge Regression model trained on a synthetic dataset.
 
+This project was developed as part of a Predictive Analytics course to demonstrate end-to-end model deployment and application design.
+
 ---
 
 ## What the App Does
